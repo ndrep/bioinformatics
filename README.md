@@ -19,4 +19,4 @@ On your local environment:
 
 or
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cOccS4zjhms_I1Mpcs2LxfHYoCrX0slj)
+[![Open In Colab](https://colab.research.google.com/drive/1cOccS4zjhms_I1Mpcs2LxfHYoCrX0slj?usp=sharing)
