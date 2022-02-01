@@ -1,4 +1,4 @@
-# Bioinformatic Project
+# Bioinformatics Project
 
 Predict `Active vs Inactive Enhancer` and `Active vs Inactive Promoter` regulatory region in `K562`, `MCF-7` e `A549` cell lines.
 
