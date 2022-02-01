@@ -13,6 +13,8 @@ CNN with Bayesian Optimization
 
 ## Installing and run the Project
 
+On your local environment:
+
 `jupyter-notebook Bioinformatic_project.ipynb`
 
 or
